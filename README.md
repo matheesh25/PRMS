@@ -8,11 +8,6 @@ Web-based system with CRUD operations using Node.js, AJAX, and MongoDB.
 ## ▶️ Demo Video
 https://drive.google.com/your-video-link
 
-## 🖼️ Screenshots
-![Login](screenshots/login.png)
-![Patient Dashboard](screenshots/dashboard.png)
-![Add Patient](screenshots/add-patient.png)
-
 ## 🛠️ Setup Instructions
 1. Install Node.js and MongoDB
 2. Clone the repo
